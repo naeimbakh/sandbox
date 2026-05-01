@@ -2,6 +2,10 @@
  Click on any link below to start downloading directly.
 
 
+### 📅 2026-05-01 20:03 (IR Time)
+- 📥 **[SlipNet-v2.5.3-full-release-arm64-v8a.apk](https://github.com/naeimbakh/sandbox/raw/main/dl/SlipNet-v2.5.3-full-release-arm64-v8a.apk)**
+
+
 ### 📅 2026-05-01 16:33 (IR Time)
 - 📥 **[mhrv-rs-android-arm64-v8a-v1.9.5.apk](https://github.com/naeimbakh/sandbox/raw/main/dl/mhrv-rs-android-arm64-v8a-v1.9.5.apk)**
 
